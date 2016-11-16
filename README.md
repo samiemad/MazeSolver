@@ -1,8 +1,8 @@
 # MazeSolver
 
 A simple app to solve mazes.
-download it on google play: https://play.google.com/store/apps/details?id=com.seapps.mazeexplorer
-Project page: https://samiemad.github.io/MazeSolver/
+- download it on google play: https://play.google.com/store/apps/details?id=com.seapps.mazeexplorer
+- Project page: https://samiemad.github.io/MazeSolver/
 
 This app can construct maze from the following sources:
 * build a new maze in the app
