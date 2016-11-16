@@ -1,6 +1,6 @@
 {
   "name": "Mazesolver",
   "tagline": "Android, Image Processing, Path finding algorithms.",
-  "body": "A simple app to solve mazes.\r\ndownload it on google play: https://play.google.com/store/apps/details?id=com.seapps.mazeexplorer\r\n\r\n\r\nThis app can construct maze from the following sources:\r\n* build a new maze in the app\r\n* import an image from gallery\r\n* take an image from the camera\r\n\r\nThe app then analyse the image to get the maze structure.\r\n\r\nAfter that, it performs a Breadth First Search algorithm to find the actual path and highlights it.",
+  "body": "A simple app to solve mazes.\r\ndownload it on google play: https://play.google.com/store/apps/details?id=com.seapps.mazeexplorer\r\n\r\n\r\nThis app can construct maze from the following sources:\r\n* build a new maze in the app\r\n* import an image from gallery\r\n* take an image from the camera\r\n\r\nThe app then analyse the image to get the maze structure.\r\n\r\nAfter that, it performs a Breadth First Search algorithm to find the actual path and highlights it.\r\n\r\nYou can use this image to test the app:\r\n![Sample maze](https://raw.githubusercontent.com/samiemad/MazeSolver/master/maze.png)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
